@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "controlui",
+  "version": "${version}",
+  "name": "ControlUI",
+  "description": "A mod that uses Baritone Pathfinder AI's API to make a usable UI instead of chat commands.",
+  "authors": [
+    "Type-32"
+  ],
+  "contact": {
+    "website": "crtl-prototype-studios.cn",
+    "repo": "https://github.com/administrator/ControlUI"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/controlui/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "cn.crtlprototypestudios.controlui.client.ControlUIClient"
+    ],
+    "main": [
+      "cn.crtlprototypestudios.controlui.ControlUI"
+    ]
+  },
+  "mixins": [
+    "controlui.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
