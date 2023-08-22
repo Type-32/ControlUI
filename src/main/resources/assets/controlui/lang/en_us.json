@@ -1,0 +1,7 @@
+{
+  "category.control_ui": "Control UI",
+
+  "key.control_ui.toggle": "Toggle Control UI",
+  "key.control_ui.cancel_all_actions": "Cancel All Actions",
+  "key.control_ui.pause_all_actions": "Pause All Actions"
+}
