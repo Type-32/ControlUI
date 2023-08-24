@@ -11,7 +11,7 @@
     "website": "crtl-prototype-studios.cn",
     "repo": "https://github.com/administrator/ControlUI"
   },
-  "license": "All-Rights-Reserved",
+  "license": "MIT License",
   "icon": "assets/controlui/icon.png",
   "environment": "client",
   "entrypoints": {

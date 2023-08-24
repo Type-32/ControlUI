@@ -1,15 +1,19 @@
 {
-  "category.control_ui": "Control UI",
+    "category.control_ui": "Control UI",
 
-  "key.control_ui.toggle": "Toggle Control UI",
-  "key.control_ui.cancel_all_actions": "Cancel All Actions",
-  "key.control_ui.pause_all_actions": "Pause All Actions",
+    "key.control_ui.toggle": "Toggle Control UI",
+    "key.control_ui.cancel_all_actions": "Cancel All Actions",
+    "key.control_ui.pause_all_actions": "Pause All Actions",
 
-  "gui.control_ui.tabs.main": "Main Menu",
-  "gui.control_ui.tabs.mine": "Mining",
-  "gui.control_ui.tabs.goal": "Goals",
-  "gui.control_ui.tabs.waypoint": "Waypoints",
-  "gui.control_ui.tabs.settings": "Settings",
+    "gui.control_ui.tabs.main": "Main Menu",
+    "gui.control_ui.tabs.mine": "Mining",
+    "gui.control_ui.tabs.goal": "Goals",
+    "gui.control_ui.tabs.waypoint": "Waypoints",
+    "gui.control_ui.tabs.settings": "Settings",
 
-  "gui.control_ui.menus.main.title": "All Functionalities"
+    "gui.control_ui.menus.main.title": "All Functionalities",
+    "gui.control_ui.menus.mine.title": "Mining",
+    "gui.control_ui.menus.goal.title": "Goals",
+    "gui.control_ui.menus.waypoint.title": "Waypoints",
+    "gui.control_ui.menus.settings.title": "Settings"
 }
