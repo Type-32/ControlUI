@@ -11,9 +11,17 @@
     "gui.control_ui.tabs.waypoint": "Waypoints",
     "gui.control_ui.tabs.settings": "Settings",
 
-    "gui.control_ui.menus.main.title": "All Functionalities",
+    "gui.control_ui.menus.main.title": "Function Hub",
     "gui.control_ui.menus.mine.title": "Mining",
     "gui.control_ui.menus.goal.title": "Goals",
     "gui.control_ui.menus.waypoint.title": "Waypoints",
-    "gui.control_ui.menus.settings.title": "Settings"
+    "gui.control_ui.menus.settings.title": "Settings",
+
+    "gui.control_ui.menus.mine.buttons.settings": "Settings",
+    "gui.control_ui.menus.mine.buttons.execute": "Mine",
+    "gui.control_ui.menus.mine.buttons.cancel": "Cancel Mine",
+    "gui.control_ui.menus.mine.buttons.add": "Add",
+    "gui.control_ui.menus.mine.buttons.remove": "Remove",
+    "gui.control_ui.menus.mine.buttons.clear": "Clear",
+    "gui.control_ui.menus.mine.buttons.create_profile": "Create Profile"
 }
